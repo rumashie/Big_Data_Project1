@@ -5,8 +5,7 @@ This project analyzes NYC city inspection data using Python and MongoDB. It was 
 Data Set: [City Inspections JSON](https://github.com/ozlerhakan/mongodb-json-files/blob/master/datasets/city_inspections.json)
 
 Project tasks included:
-Load Data: Import inspection data into MongoDB using PyMongo.
-Count Inspections: Get total inspections for 2015 and 2016.
-Search Violations: Prompt for a business name and show violation status.
-Borough Violations: Count violations in Brooklyn and The Bronx; show five businesses from each.
-Zip Code Query: Search by zip code and display five random businesses.
+- Loading the Data: Importing inspection JSON data into MongoDB using PyMongo.
+- Analyzing Data: Counting total Inspections, Borough Violations: Count violations in Brooklyn and The Bronx
+- Search Violations: Prompt for a business name and show violation status.
+- Zip Code Query: Search by zip code and display five random businesses.
