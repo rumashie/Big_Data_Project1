@@ -1,4 +1,4 @@
-# Big_Data_Project1
+# Big Data Technology CSCI 493.76 Project 1
 
 This project analyzes NYC city inspection data using Python and MongoDB. It was part of the Big Data Technology course (CSCI 493.76) at Hunter College in Spring 2024. 
 
